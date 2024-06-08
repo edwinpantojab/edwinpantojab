@@ -18,7 +18,7 @@ As a dedicated Systems Engineer, I have a comprehensive understanding of softwar
 
 ### Professional Experience
 #### Full Stack Developer | Freelance
-*Date Range*
+
 - Developed and maintained responsive websites using WordPress, ensuring optimal performance and user experience.
 - Created custom WordPress themes and plugins to extend site functionality and meet specific client requirements.
 - Utilized JavaScript, PHP, HTML, and CSS to build dynamic and interactive web applications.
@@ -26,14 +26,14 @@ As a dedicated Systems Engineer, I have a comprehensive understanding of softwar
 - Collaborated with clients to gather requirements, design solutions, and deliver projects on time and within budget.
 
 #### Web Developer Intern 
-*Date Range*
+
 - Assisted in the development of internal tools and client projects using JavaScript, HTML, and CSS.
 - Gained hands-on experience with back-end technologies, including Node.js and Express.js.
 - Participated in code reviews, debugging, and testing to ensure high-quality code and application performance.
 
 ### Education
 - **Bachelor's Degree in Systems Engineering** | National Open and Distance University (UNAD), Bogota, Colombia
-  *Expected Graduation: Month Year*
+  *Expected Graduation: Actualmente en sexto semestre
 
 ### Connect with Me
 - 📧 Email: edwinpantoja2015@gmail.com
