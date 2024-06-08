@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí tienes un perfil más profesional y completo como Ingeniero de Sistemas y Desarrollador Web:
-
----
-
 # Hello, I'm Edwin Pantoja Bustos 👋
 ## Systems Engineer and Full Stack Web Developer
 
