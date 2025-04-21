@@ -1,54 +1,103 @@
-# Hello, I'm Edwin Pantoja Bustos 👋
-## Systems Engineer and Full Stack Web Developer
+# 👋 Hola, soy Edwin Pantoja Bustos  
+## 👨‍💻 Ingeniero de Sistemas y Desarrollador Web Full Stack  
 
-Greetings! I am Edwin Pantoja Bustos, a Systems Engineer and seasoned Full Stack Web Developer based in Bogota, Colombia. With over 2 years of experience in the tech industry, I specialize in creating robust, scalable, and user-friendly web applications using a variety of modern technologies.
+Soy un Ingeniero de Sistemas en formación y Desarrollador Full Stack con más de 2 años de experiencia. Me especializo en crear aplicaciones web modernas, escalables y fáciles de usar, utilizando tecnologías de última generación. Mi objetivo es aportar soluciones tecnológicas innovadoras que impulsen el éxito de las organizaciones.  
 
-### About Me
-As a dedicated Systems Engineer, I have a comprehensive understanding of software development principles and methodologies. My expertise spans across front-end and back-end development, with a strong focus on delivering high-quality solutions tailored to meet client needs.
+---
 
-### Skills and Technologies
-- **Programming Languages:** JavaScript, PHP, HTML, CSS
-- **Front-End Development:** HTML5, CSS3, JavaScript (ES6+), React, React Native
-- **Back-End Development:** Node.js, Express.js
-- **Content Management Systems:** WordPress (including custom theme and plugin development)
-- **Database Management:** MySQL, MongoDB
-- **Version Control:** Git, GitHub
-- **Tools and Platforms:** npm, Webpack, Docker
-- **Other Skills:** RESTful APIs, JSON, AJAX, Responsive Web Design, Cross-Browser Compatibility
+## 🎯 Resumen Profesional  
+- **Ingeniero de Sistemas en formación** en la **UNAD Bogotá, Colombia** (7° semestre).  
+- Experiencia en desarrollo Full Stack, gestión de bases de datos y ciberseguridad.  
+- Pasión por la tecnología, resolución de problemas y aprendizaje continuo.  
+- Habilidades avanzadas en análisis, diseño e implementación de sistemas y aplicaciones web.  
+- Experiencia en soporte técnico y optimización de procesos tecnológicos.  
 
-### Professional Experience
-#### Full Stack Developer | Freelance
+---
 
-- Developed and maintained responsive websites using WordPress, ensuring optimal performance and user experience.
-- Created custom WordPress themes and plugins to extend site functionality and meet specific client requirements.
-- Utilized JavaScript, PHP, HTML, and CSS to build dynamic and interactive web applications.
-- Integrated third-party APIs to enhance site capabilities, including payment gateways and social media integrations.
-- Collaborated with clients to gather requirements, design solutions, and deliver projects on time and within budget.
+## 🛠️ Habilidades Técnicas  
+### Desarrollo Web  
+- **Frontend:** HTML5, CSS3, TailwindCSS, JavaScript (ES6+), React.js, Redux, Next.js  
+- **Backend:** Node.js, Express.js  
+- **APIs:** RESTful APIs, WebSockets  
 
-#### Web Developer Intern 
+### Lenguajes de Programación  
+- JavaScript, TypeScript, C#, Java, Python, C++  
 
-- Assisted in the development of internal tools and client projects using JavaScript, HTML, and CSS.
-- Gained hands-on experience with back-end technologies, including Node.js and Express.js.
-- Participated in code reviews, debugging, and testing to ensure high-quality code and application performance.
+### Bases de Datos  
+- **SQL:** MySQL, SQL Server  
+- **NoSQL:** MongoDB, Firebase  
 
-### Education
-- **Bachelor's Degree in Systems Engineering** | National Open and Distance University (UNAD), Bogota, Colombia
-  *Expected Graduation: Actualmente en sexto semestre
+### Ciberseguridad y Rendimiento  
+- Autenticación OAuth, JWT  
+- Prácticas de desarrollo seguro  
+- Optimización de código y rendimiento  
 
-### Connect with Me
-- 📧 Email: edwinpantoja2015@gmail.com
-- 💼 LinkedIn: [Edwin Pantoja Bustos](https://www.linkedin.com/in/edwin-pantoja-bustos-07233b264/)
-- 🎮 Discord: [EdwinPantoja_PT12b#4112](https://discord.gg/EdwinPantoja_PT12b#4112)
+### Herramientas y Frameworks  
+- Git (GitHub, GitLab)  
+- React Native, Docker, Webpack, Babel  
+- WordPress (temas y plugins personalizados)  
 
-### Portfolio
-Please visit my portfolio to see examples of my work and projects:
-- [e-komerce.com](https://e-komerce.com/): A showcase of my web development skills using WordPress, custom plugins, and modern web technologies.
+### Metodologías y Otras Competencias  
+- Enfoque Agile y Scrum  
+- Marketing Digital y Diseño Gráfico (Canva)  
+- Gestión de proyectos y documentación técnica  
 
-### Professional Objective
-My aim is to leverage my technical skills and experience to contribute to innovative projects and help organizations achieve their digital goals. I am passionate about continuous learning and am always eager to explore new technologies and methodologies in web development.
+---
 
-Thank you for taking the time to learn about me. I look forward to the opportunity to work together and bring your ideas to life with my expertise in web development and systems engineering.
+## 📂 Experiencia Profesional  
 
+### **Desarrollador Web Full Stack | Freelance**  
+_(2023 - Presente)_  
+- Desarrollo de sitios web responsivos utilizando WordPress y tecnologías modernas.  
+- Implementación de temas y plugins personalizados para clientes.  
+- Integración de APIs externas como pasarelas de pago y redes sociales.  
+
+### **Agente de Servicio Técnico | Comware Colombia**  
+_(2023 - 2024)_  
+- Diagnóstico y solución de problemas en hardware, software y redes.  
+- Soporte técnico de primer y segundo nivel a clientes internos y externos.  
+- Gestión y seguimiento de tickets, garantizando SLA.  
+
+### **Analista de Datos | Data Tools S.A.S**  
+_(2021 - 2022)_  
+- Gestión, análisis y procesamiento de grandes volúmenes de datos.  
+- Organización y digitalización de documentos institucionales.  
+- Elaboración de reportes y visualizaciones de datos para la toma de decisiones.  
+
+---
+
+## 🎓 Educación  
+- **Ingeniería de Sistemas** | Universidad Nacional Abierta y a Distancia (UNAD), Bogotá, Colombia  
+  - _Actualmente cursando séptimo semestre | Graduación esperada: 2025_  
+
+---
+
+## 🏆 Certificaciones y Cursos  
+- Diseño Web Responsivo  
+- Algoritmos y Estructura de Datos con JavaScript  
+- Desarrollo de Aplicaciones con Java  
+
+---
+
+## 🌟 Proyectos Destacados  
+
+### **Portafolio**  
+- 🌐 [e-komerce.com](https://e-komerce.com/): Ejemplo de mis habilidades en desarrollo web con WordPress y tecnologías modernas.  
+
+### **Repositorio de GitHub**  
+- 🔗 [GitHub](https://github.com/edwinpantojab): Repositorio con proyectos relevantes.  
+
+---
+
+## 📞 Contacto  
+- 📧 Email: edwinpantoja2015@gmail.com  
+- 💼 LinkedIn: [Edwin Pantoja Bustos](https://www.linkedin.com/in/edwin-pantoja-bustos-07233b264/)  
+- 🎮 Discord: EdwinPantoja_PT12b#4112  
+- 📱 Teléfono: (+57) 323-393-2071  
+
+---
+
+## 🔧 Iconos de Tecnologías  
 
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
@@ -58,6 +107,7 @@ Thank you for taking the time to learn about me. I look forward to the opportuni
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="React Native" width="30px" src="https://reactnative.dev/img/header_logo.svg" />
-<br/>
-<br/>
+<img align="left" alt="React Native" width="30px" src="https://reactnative.dev/img/header_logo.svg" />  
+
+<br/><br/>
+© 2025 Edwin Pantoja Bustos — Todos los derechos reservados  
