@@ -124,5 +124,5 @@ _(2021 - 2022)_
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 
 
-<br/><br/>
-© 2025 Edwin Pantoja Bustos — Todos los derechos reservados  
+<br/>© 2025 Edwin Pantoja Bustos — Todos los derechos reservados<br/>
+
