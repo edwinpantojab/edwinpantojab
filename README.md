@@ -34,8 +34,9 @@ Soy un Ingeniero de Sistemas en formación y Desarrollador Full Stack con más d
 
 ### Herramientas y Frameworks  
 - Git (GitHub, GitLab)  
-- React Native, Docker, Webpack, Babel  
+- Docker, Webpack, Babel  
 - WordPress (temas y plugins personalizados)  
+- React Native  
 
 ### Metodologías y Otras Competencias  
 - Enfoque Agile y Scrum  
@@ -99,8 +100,6 @@ _(2021 - 2022)_
 
 ## 🔧 Iconos de Tecnologías  
 
-## 🔧 Iconos de Tecnologías  
-
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
@@ -123,6 +122,5 @@ _(2021 - 2022)_
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 
-
-<br/>© 2025 Edwin Pantoja Bustos — Todos los derechos reservados<br/>
-
+<br/><br/>
+© 2025 Edwin Pantoja Bustos — Todos los derechos reservados  
