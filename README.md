@@ -100,6 +100,8 @@ _(2021 - 2022)_
 
 ## 🔧 Iconos de Tecnologías  
 
+## 🔧 Iconos de Tecnologías  
+
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
@@ -122,5 +124,6 @@ _(2021 - 2022)_
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 
-<br/><br/>
-© 2025 Edwin Pantoja Bustos — Todos los derechos reservados  
+<br/><br/><br/>
+
+© 2025 Edwin Pantoja Bustos — Todos los derechos reservados
