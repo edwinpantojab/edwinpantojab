@@ -130,7 +130,6 @@ _Junio 2021 - Diciembre 2022_
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" />
 <img align="left" alt="WordPress" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" title="WordPress" />
 <img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" />
-<img align="left" alt="TailwindCSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" />
 
