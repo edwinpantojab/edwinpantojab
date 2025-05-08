@@ -71,7 +71,7 @@ _Junio 2021 - Diciembre 2022_
 
 ## 🎓 Educación  
 - **Ingeniería de Sistemas** | Universidad Nacional Abierta y a Distancia (UNAD), Bogotá, Colombia  
-  - Séptimo semestre | Graduación esperada: Diciembre 2025  
+  - Séptimo semestre | Graduación esperada: Diciembre 2026  
 
 ---
 
